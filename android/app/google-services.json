@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737703081553",
+    "firebase_url": "https://ahmed-mahmoud-fadel.firebaseio.com",
+    "project_id": "ahmed-mahmoud-fadel",
+    "storage_bucket": "ahmed-mahmoud-fadel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737703081553:android:25c779d55e741d577e6a70",
+        "android_client_info": {
+          "package_name": "com.blockygames.etutor_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737703081553-snvgf0ajvbt9bh7gfrmsnarpu2a1lbig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcpAb0tPwznp0j3mYesurJddDUgDC_30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737703081553-snvgf0ajvbt9bh7gfrmsnarpu2a1lbig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
